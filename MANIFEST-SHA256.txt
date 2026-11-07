@@ -1,0 +1,15 @@
+0cf3398a142ff6429d3ea0b91713c5472ebee755b549194be56625a6ba4d6b25  ./AGENTS.md
+05f29b84a9c00ecabf2b8594a027e6331f31ea04b32aa511aba8bfef6c3cca1b  ./LICENSE
+9c166e284e91e4edfa7eb677553da49abe3fe6e8bdc20ed496dc484332b7ae42  ./NOTICE.md
+bd502d16d9e6370fca5e4563c4149234116bea9a6c870d3d872799bebd9ce407  ./README.md
+49b2667d04c295efe3782d9769e5672786c4c6364e3181956a433f5b7af542cf  ./input/01-voice-note-budi.txt
+b118a0510df900337485b949d51d6adffc0511a2c3607023eb42296f462801cd  ./input/02-dokumen-injeksi.txt
+da91b5e2455fbf099e61db99dfef8f532d0b4118b62adb866f3be969f519c5c3  ./input/03-email-rina.txt
+90c3675d4ad8b6ab426cedb95baf822cc950792e475e964d513eb015c004d3ab  ./input/05-transkrip-rapat.txt
+f8e04eb6753f45b5d81eeb5520c6ee663b1ca0aad7ec29b070aeb9a0784e774f  ./input/06-log-chat-grup.txt
+d72d07c68cebcc2ce2cb8f57bc2e64b5143fd48e16021c69cfef1b92e322cb9d  ./output/README.md
+7e0876b2ce1e225a85e6530707ffebd6d746c3d3cc86e201f3a48f73c88c8bb9  ./tests/chat_cases.md
+d132b3ea83d54f3bfc2b877c3eb712e84d013bfc4aed5300b3cf393d04fc51ab  ./tests/kasus-tambahan-10-13.md
+48817534f56a35ac2a77452b9ae35d22c9dd514d2d5b4dc9314fb8c8d7cdd684  ./tests/kasus-tambahan-14-17.md
+b1b4f3f2902eb68ea6ba62426fd13d9bb92e4f9f56abd1b625172c90c819913b  ./tests/test_cases.json
+a1fac6013db53d71842a229c40c9f3caf1a0416c270e1ad0544472864f094962  ./tests/test_report_prototipe_lokal.md
